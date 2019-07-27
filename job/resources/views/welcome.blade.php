@@ -83,7 +83,6 @@
                 <div class="title m-b-md">
                     Job Site
                 </div>
-
                 <div class="links">
                     <img src="jobs.jpg" width="100%" height="300px;">
                 </div>
